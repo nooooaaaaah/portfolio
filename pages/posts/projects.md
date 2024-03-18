@@ -8,5 +8,5 @@ author: You
 
 # Projects
 
-For most of the dumbshit that I've made check my github [@nooooaaaaah]("https://github.com/nooooaaaaah")
+For most of the dumbshit that I've made check my github [@nooooaaaaah](https://github.com/nooooaaaaah)
 
